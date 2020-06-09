@@ -7,12 +7,12 @@ Rosado Tango #EF7674
 Negro: #999
 */
 html{
-    font-family: 'Baloo Thambi 2', cursive;
+    font-family: 'Arial', cursive;
 }
 
 a{ /*links*/
     text-decoration: none;
-    color: #1565C0;
+    color: #C4426B;
 }
 
 img{
@@ -24,7 +24,7 @@ a:hover{
 }
 
 .title{
-    text-transform: uppercase;
+    text-transform: lowercase;
     text-align: center;
 }
 
